@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "64f8e67218a4a85c27dd6336"
+  },
+  "HoTen": "Nguyễn Van A",
+  "ViTriLamViec": "Project Manager",
+  "NgaySinh": {
+    "$date": "1975-03-05T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "nguyen.hnam2024@gmail.com"
+  ],
+  "SoDienThoai": "0192591221",
+  "DiaChi": {
+    "So": "123A/4B",
+    "Duong": "Nguyen Van Street",
+    "PhuongXa": "Le Giang",
+    "QuanHuyen": 15,
+    "TinhThanh": "TP.HCM"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8e96818a4a85c27dd6337"
+  },
+  "HoTen": "Nguyễn Van B",
+  "ViTriLamViec": "TeamLead Backend",
+  "NgaySinh": {
+    "$date": "1975-03-05T00:00:00.000Z"
+  },
+  "Phai": "Nu",
+  "Email": [
+    "nguyen.hnam2024@gmail.com"
+  ],
+  "SoDienThoai": "0192asg591221",
+  "DiaChi": {
+    "So": "123A/4B",
+    "Duong": "Nguyen Van Street",
+    "PhuongXa": "Le Giang",
+    "QuanHuyen": 15,
+    "TinhThanh": "TP.HCM"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8e9ba18a4a85c27dd6338"
+  },
+  "HoTen": "Nguyễn Van C",
+  "ViTriLamViec": "TeamLead Data",
+  "NgaySinh": {
+    "$date": "1975-03-05T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "nguyen.hnam2024@gmail.com"
+  ],
+  "SoDienThoai": "019245591221",
+  "DiaChi": {
+    "So": "123A/4B",
+    "Duong": "Nguyen Van Street",
+    "PhuongXa": "Le Giang",
+    "QuanHuyen": 15,
+    "TinhThanh": "TP.HCM"
+  }
+}]

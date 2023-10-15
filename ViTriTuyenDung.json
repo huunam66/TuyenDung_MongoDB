@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "652ab85923322e0128064fe3"
+  },
+  "TenViTri": "Backend Dot.NET",
+  "SoLuongCanTuyen": 2,
+  "NgayDeXuat": {
+    "$date": "2023-10-14T15:48:41.864Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "Open",
+  "KinhNghiemYeuCau": "20tr -> 35tr",
+  "NgayKetThuc": {
+    "$date": "2023-11-28T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "$oid": "64f8e96818a4a85c27dd6337"
+    },
+    {
+      "$oid": "64f8e9ba18a4a85c27dd6338"
+    },
+    {
+      "$oid": "64f8e67218a4a85c27dd6336"
+    }
+  ],
+  "ThiSinhUngTuyen": [],
+  "ThiSinhTrungTuyen": [],
+  "ThiSinhDatYeuCau": []
+},
+{
+  "_id": {
+    "$oid": "652abf1cf801a7e45c3c98c3"
+  },
+  "TenViTri": "Backend Spring",
+  "SoLuongCanTuyen": 1,
+  "NgayDeXuat": {
+    "$date": "2023-10-14T16:17:32.451Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "20tr -> 35tr",
+  "KinhNghiemYeuCau": "junior, middle, senior",
+  "NgayKetThuc": {
+    "$date": "2023-10-09T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "$oid": "64f8e67218a4a85c27dd6336"
+    },
+    {
+      "$oid": "64f8e96818a4a85c27dd6337"
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "0909932013",
+      "HoTen": "Nguyễn Hữu Nam",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-14T16:17:44.031Z"
+      },
+      "Email": "nguyen.hnam2024@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-14T16:17:44.027Z"
+      },
+      "TrangThai": "Trúng tuyển",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "intern"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=FhuI1fsv6yg"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "0909932013",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-14T16:25:39.328Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-10-14T16:25:42.532Z"
+        },
+        "NhanXet": "Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "0909932013",
+      "MucLuongChapThuan": "25.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-11-28T16:25:42.000Z"
+      }
+    }
+  ]
+}]

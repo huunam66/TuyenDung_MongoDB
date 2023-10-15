@@ -1,0 +1,17 @@
+db.ViTriTuyenDung.update(
+  { "ThiSinhTrungTuyen.NgayDeXuat": { $exists: true } },
+  [{
+    $set: {
+      ThiSinhTrungTuyen: {
+        $map: {
+          input: "$ThiSinhTrungTuyen",
+          in: {
+            MaThiSinh: "$$this.MaThiSinh",
+            NgayTrungTuyen: "$$this.NgayDeXuat"
+          }
+        }
+      }
+    }
+  }],
+  { multi: true }
+)
