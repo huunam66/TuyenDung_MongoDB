@@ -1,0 +1,1873 @@
+[{
+  "_id": {
+    "$oid": "652ffa9a2f300ceafd1a066e"
+  },
+  "TenViTri": "Backend Spring",
+  "SoLuongCanTuyen": 9,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T15:32:42.599Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Junior, Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2023-12-11T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "09347474545",
+      "HoTen": "Nguyễn Long",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "longamtham123@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Java",
+        "MySQL",
+        "Oracle"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "09347745455",
+      "HoTen": "Trần Minh",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "minhmanhme123@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Java",
+        "MySQL"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "09347457445",
+      "HoTen": "Nguyễn Ngọc Linh",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "linhngoc123@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Java"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "09347474545",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:52:55.606Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e96818a4a85c27dd6337"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-10-18T16:56:14.644Z"
+        },
+        "NhanXet": "Good"
+      }
+    },
+    {
+      "MaThiSinh": "09347745455",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:52:57.588Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e9ba18a4a85c27dd6338"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-10-18T16:56:14.644Z"
+        },
+        "NhanXet": "Good"
+      }
+    },
+    {
+      "MaThiSinh": "09347457445",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:53:04.644Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-10-18T16:56:14.644Z"
+        },
+        "NhanXet": "Nice"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "09347474545",
+      "MucLuongChapThuan": "30.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T16:56:32.522Z"
+      }
+    },
+    {
+      "MaThiSinh": "09347745455",
+      "MucLuongChapThuan": "25.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T16:59:56.030Z"
+      }
+    },
+    {
+      "MaThiSinh": "09347457445",
+      "MucLuongChapThuan": "26.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:00:13.704Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653001c5226b3b05e09d370e"
+  },
+  "TenViTri": "Backend Dot.Net",
+  "SoLuongCanTuyen": 14,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:03:17.782Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2024-02-28T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "093474463334",
+      "HoTen": "Lê Hoàng Dũng",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "lehoangdung123@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "ASP.NET Core",
+        "MySQL"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "09347432523",
+      "HoTen": "Lê Minh Long",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "lehminhgsgd123@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "ASP.NET Core",
+        "MySQL"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "093474463334",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:53:09.757Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-10-18T16:56:14.644Z"
+        },
+        "NhanXet": "Nice"
+      }
+    },
+    {
+      "MaThiSinh": "09347432523",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:28.137Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-11-25T09:56:14.000Z"
+        },
+        "NhanXet": "Very Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "093474463334",
+      "MucLuongChapThuan": "28.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-11-24T17:00:58.000Z"
+      }
+    },
+    {
+      "MaThiSinh": "09347432523",
+      "MucLuongChapThuan": "30.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:02:36.924Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653001fc226b3b05e09d370f"
+  },
+  "TenViTri": "FrontEnd ReactJS, VueJS",
+  "SoLuongCanTuyen": 24,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:04:12.317Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "20tr -> 45tr",
+  "KinhNghiemYeuCau": "Junior, Middle, Senior, Leader",
+  "NgayKetThuc": {
+    "$date": "2024-03-13T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fff541af1f929bc256976"
+      },
+      "HoTen": "Trần Be AC",
+      "ViTriLamViec": "TeamLead FrontEnd",
+      "NgaySinh": {
+        "$date": "1986-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "abcTran323@gmail.com"
+      ],
+      "SoDienThoai": "04573455455",
+      "DiaChi": {
+        "So": "6344/12A",
+        "Duong": "Le Hoang",
+        "PhuongXa": "Hoang Mai",
+        "QuanHuyen": "Hoan Kiem",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "0932463243",
+      "HoTen": "Nguyễn Hoàng Hậu",
+      "Phai": "Nữ",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "hoanghau22@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "HTML",
+        "CSS",
+        "ReactJS"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "09346663243",
+      "HoTen": "Nguyễn Mạnh Dũng",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "manhdung123@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "HTML",
+        "CSS",
+        "VueJS"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "0932463243",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:53:24.903Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2024-01-25T02:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    },
+    {
+      "MaThiSinh": "09346663243",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:31.536Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2024-01-25T02:56:14.000Z"
+        },
+        "NhanXet": "Excelent"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "0932463243",
+      "MucLuongChapThuan": "22.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:17:57.660Z"
+      }
+    },
+    {
+      "MaThiSinh": "09346663243",
+      "MucLuongChapThuan": "30.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:18:07.437Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6530029f226b3b05e09d3710"
+  },
+  "TenViTri": "Data Engineering",
+  "SoLuongCanTuyen": 7,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:06:55.400Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "30tr -> 65tr",
+  "KinhNghiemYeuCau": "Senior, Leader",
+  "NgayKetThuc": {
+    "$date": "2024-02-05T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "09856855664",
+      "HoTen": "Hoàng Ngọc Trinh",
+      "Phai": "Nữ",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "trinh54343@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "MySQL",
+        "SQL Server"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "09856855664",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:35.872Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e9ba18a4a85c27dd6338"
+        },
+        "NgayPhongVan": {
+          "$date": "2024-01-12T19:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "09856855664",
+      "MucLuongChapThuan": "26.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:18:34.334Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65300338226b3b05e09d3711"
+  },
+  "TenViTri": "System Administrator",
+  "SoLuongCanTuyen": 2,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:09:28.886Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "12tr -> 25tr",
+  "KinhNghiemYeuCau": "Junior, Middle",
+  "NgayKetThuc": {
+    "$date": "2024-04-16T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "086346866",
+      "HoTen": "Trần Mạnh",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:27:21.369Z"
+      },
+      "Email": "dankhongloithoat2@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:27:21.366Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "MySQL",
+        "Oracle",
+        "SQL Server"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "0963464343",
+      "HoTen": "Trần Long",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:27:21.369Z"
+      },
+      "Email": "long2@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T09:27:21.000Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "MySQL",
+        "Oracle",
+        "SQL Server"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "0963464343",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:55:17.588Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e9ba18a4a85c27dd6338"
+        },
+        "NgayPhongVan": {
+          "$date": "2024-02-14T19:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    },
+    {
+      "MaThiSinh": "086346866",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:55:33.722Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e9ba18a4a85c27dd6338"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-12-18T19:56:14.000Z"
+        },
+        "NhanXet": "21.000.000"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "0963464343",
+      "MucLuongChapThuan": "28.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:19:13.272Z"
+      }
+    },
+    {
+      "MaThiSinh": "086346866",
+      "MucLuongChapThuan": "Good",
+      "NgayVaoLam": {
+        "$date": "2024-01-19T17:19:22.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653003de226b3b05e09d3712"
+  },
+  "TenViTri": "Data Analyst",
+  "SoLuongCanTuyen": 4,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:12:14.852Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "20tr -> 30tr",
+  "KinhNghiemYeuCau": "Junior, Middle",
+  "NgayKetThuc": {
+    "$date": "2023-12-27T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "0934747364",
+      "HoTen": "Nguyễn Long Phong",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "longam313@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "MySQL",
+        "Oracle"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "09347473641",
+      "HoTen": "Nguyễn Long Phong Thần",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "longam35213@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "MySQL"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "09347473641",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:54.959Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e9ba18a4a85c27dd6338"
+        },
+        "NgayPhongVan": {
+          "$date": "2024-01-19T05:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    },
+    {
+      "MaThiSinh": "0934747364",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:55:05.419Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e9ba18a4a85c27dd6338"
+        },
+        "NgayPhongVan": {
+          "$date": "2024-01-19T05:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "09347473641",
+      "MucLuongChapThuan": "29.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:22:43.655Z"
+      }
+    },
+    {
+      "MaThiSinh": "0934747364",
+      "MucLuongChapThuan": "19.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-12-14T17:22:54.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6530061e226b3b05e09d3713"
+  },
+  "TenViTri": "Business Analyst",
+  "SoLuongCanTuyen": 3,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:21:50.491Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "27tr -> 40tr",
+  "KinhNghiemYeuCau": "Middle",
+  "NgayKetThuc": {
+    "$date": "2024-01-23T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "653005b21374511d1d12712d"
+      },
+      "HoTen": "Lê Hoàng Ngọc",
+      "ViTriLamViec": "Senior Business Analyst",
+      "NgaySinh": {
+        "$date": "1994-02-15T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "nguoidepchongmong@gmail.com"
+      ],
+      "SoDienThoai": "09056856556",
+      "DiaChi": {
+        "So": "13432/6B",
+        "Duong": "Hoang Ha",
+        "PhuongXa": "Quang Tien",
+        "QuanHuyen": "Minh Ngoc",
+        "TinhThanh": "Đà Nẵng"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [],
+  "ThiSinhTrungTuyen": [],
+  "ThiSinhDatYeuCau": []
+},
+{
+  "_id": {
+    "$oid": "6530067d226b3b05e09d3714"
+  },
+  "TenViTri": "FrontEnd Angular",
+  "SoLuongCanTuyen": 20,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:23:25.349Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "21tr -> 35tr",
+  "KinhNghiemYeuCau": "Junior, Middler",
+  "NgayKetThuc": {
+    "$date": "2024-03-12T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fff541af1f929bc256976"
+      },
+      "HoTen": "Trần Be AC",
+      "ViTriLamViec": "TeamLead FrontEnd",
+      "NgaySinh": {
+        "$date": "1986-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "abcTran323@gmail.com"
+      ],
+      "SoDienThoai": "04573455455",
+      "DiaChi": {
+        "So": "6344/12A",
+        "Duong": "Le Hoang",
+        "PhuongXa": "Hoang Mai",
+        "QuanHuyen": "Hoan Kiem",
+        "TinhThanh": "Hà Nội"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "0932415363",
+      "HoTen": "Nguyễn Ngọc Minh",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "minh12412@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Angular"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    },
+    {
+      "MaThiSinh": "0932415464",
+      "HoTen": "Mai Linh Minh",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "minhasg11412@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Angular",
+        "ReactJS"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "0932415464",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:46.568Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "652fff541af1f929bc256976"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-12-04T12:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    },
+    {
+      "MaThiSinh": "0932415363",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:51.463Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "652fffc71af1f929bc256977"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-12-04T12:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "0932415464",
+      "MucLuongChapThuan": "12.000.000",
+      "NgayVaoLam": {
+        "$date": "2024-01-25T17:21:46.000Z"
+      }
+    },
+    {
+      "MaThiSinh": "0932415363",
+      "MucLuongChapThuan": "19.000.000",
+      "NgayVaoLam": {
+        "$date": "2024-01-19T17:22:09.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65300697226b3b05e09d3715"
+  },
+  "TenViTri": "Backend Ruby",
+  "SoLuongCanTuyen": 11,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:23:51.838Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2024-03-28T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "09324153636",
+      "HoTen": "Trương Thế Mẫn",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "eh1513g333@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Angular",
+        "ReactJS",
+        "Ruby On Rails"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "09324153636",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:42.258Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "64f8e67218a4a85c27dd6336"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-12-04T12:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "09324153636",
+      "MucLuongChapThuan": "39.000.000",
+      "NgayVaoLam": {
+        "$date": "2023-10-18T17:21:22.732Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653006a6226b3b05e09d3716"
+  },
+  "TenViTri": "Backend PHP",
+  "SoLuongCanTuyen": 12,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:24:06.288Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2024-03-27T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [],
+  "ThiSinhTrungTuyen": [],
+  "ThiSinhDatYeuCau": []
+},
+{
+  "_id": {
+    "$oid": "653006be226b3b05e09d3717"
+  },
+  "TenViTri": "Backend NextJS, ExpressJS",
+  "SoLuongCanTuyen": 16,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:24:30.840Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2024-03-25T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [],
+  "ThiSinhTrungTuyen": [],
+  "ThiSinhDatYeuCau": []
+},
+{
+  "_id": {
+    "$oid": "653006cd226b3b05e09d3718"
+  },
+  "TenViTri": "Backend Golang",
+  "SoLuongCanTuyen": 11,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:24:45.712Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2024-03-25T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e67218a4a85c27dd6336"
+      },
+      "HoTen": "Nguyễn Van A",
+      "ViTriLamViec": "Project Manager",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvana123123@gmail.com"
+      ],
+      "SoDienThoai": "0192591221",
+      "DiaChi": {
+        "So": "123A/4B",
+        "Duong": "Nguyen Van Street",
+        "PhuongXa": "Le Giang",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [
+    {
+      "MaThiSinh": "09324154574",
+      "HoTen": "Trương Thế Mẫn Minh",
+      "Phai": "Nam",
+      "NgaySinh": {
+        "$date": "2023-10-18T16:36:25.693Z"
+      },
+      "Email": "hui124121@gmail.com",
+      "NgayUngTuyen": {
+        "$date": "2023-10-18T16:36:25.690Z"
+      },
+      "TrangThai": "Đậu phỏng vấn",
+      "KinhNghiem": [
+        {
+          "CongViec": "",
+          "KhoangThoiGian": ""
+        }
+      ],
+      "KyNang": [
+        "Golang"
+      ],
+      "LinkCV": "https://www.youtube.com/watch?v=v1ADEPnPt54"
+    }
+  ],
+  "ThiSinhTrungTuyen": [
+    {
+      "MaThiSinh": "09324154574",
+      "NgayTrungTuyen": {
+        "$date": "2023-10-18T16:54:39.392Z"
+      },
+      "PhongVan": {
+        "NhanVienPhongVan": {
+          "$oid": "652fffc71af1f929bc256977"
+        },
+        "NgayPhongVan": {
+          "$date": "2023-12-04T12:56:14.000Z"
+        },
+        "NhanXet": "Good"
+      }
+    }
+  ],
+  "ThiSinhDatYeuCau": [
+    {
+      "MaThiSinh": "09324154574",
+      "MucLuongChapThuan": "29.000.000",
+      "NgayVaoLam": {
+        "$date": "2024-01-31T17:20:44.000Z"
+      }
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65300709226b3b05e09d3719"
+  },
+  "TenViTri": "Backend NodeJS",
+  "SoLuongCanTuyen": 16,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:25:45.939Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "28tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle",
+  "NgayKetThuc": {
+    "$date": "2024-03-25T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "64f8e9ba18a4a85c27dd6338"
+      },
+      "HoTen": "Nguyễn Van C",
+      "ViTriLamViec": "TeamLead Data",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "nguyenvanc8565@gmail.com"
+      ],
+      "SoDienThoai": "0192455685",
+      "DiaChi": {
+        "So": "6568B/44",
+        "Duong": "Nguyen Van End",
+        "PhuongXa": "Hoan Van Thu",
+        "QuanHuyen": 15,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fffc71af1f929bc256977"
+      },
+      "HoTen": "Hoàng Minh Anh",
+      "ViTriLamViec": "TeamLead AI",
+      "NgaySinh": {
+        "$date": "1992-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nữ",
+      "Email": [
+        "MinhAnh@gmail.com"
+      ],
+      "SoDienThoai": "04673445455",
+      "DiaChi": {
+        "So": "632/55B",
+        "Duong": "Hoang Sa",
+        "PhuongXa": "Truong Sa",
+        "QuanHuyen": "Truong Son",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [],
+  "ThiSinhTrungTuyen": [],
+  "ThiSinhDatYeuCau": []
+},
+{
+  "_id": {
+    "$oid": "65300737226b3b05e09d371a"
+  },
+  "TenViTri": "React Native Developer",
+  "SoLuongCanTuyen": 8,
+  "NgayDeXuat": {
+    "$date": "2023-10-18T16:26:31.714Z"
+  },
+  "TrangThai": "Open",
+  "MucLuongDeXuat": "25tr -> 35tr",
+  "KinhNghiemYeuCau": "Middle, Senior",
+  "NgayKetThuc": {
+    "$date": "2024-03-25T17:00:00.000Z"
+  },
+  "ThamGiaPhongVan": [
+    {
+      "_id": {
+        "$oid": "64f8e96818a4a85c27dd6337"
+      },
+      "HoTen": "Nguyễn Van B",
+      "ViTriLamViec": "TeamLead Backend",
+      "NgaySinh": {
+        "$date": "1975-03-05T00:00:00.000Z"
+      },
+      "Phai": "Nu",
+      "Email": [
+        "nguyenvanb4634@gmail.com"
+      ],
+      "SoDienThoai": "0908725432",
+      "DiaChi": {
+        "So": "134/6",
+        "Duong": "Nguyen Van Stress",
+        "PhuongXa": "Quang Ha",
+        "QuanHuyen": 18,
+        "TinhThanh": "TP.HCM"
+      }
+    },
+    {
+      "_id": {
+        "$oid": "652fff541af1f929bc256976"
+      },
+      "HoTen": "Trần Be AC",
+      "ViTriLamViec": "TeamLead FrontEnd",
+      "NgaySinh": {
+        "$date": "1986-04-06T00:00:00.000Z"
+      },
+      "Phai": "Nam",
+      "Email": [
+        "abcTran323@gmail.com"
+      ],
+      "SoDienThoai": "04573455455",
+      "DiaChi": {
+        "So": "6344/12A",
+        "Duong": "Le Hoang",
+        "PhuongXa": "Hoang Mai",
+        "QuanHuyen": "Hoan Kiem",
+        "TinhThanh": "Hà Nội"
+      }
+    }
+  ],
+  "ThiSinhUngTuyen": [],
+  "ThiSinhTrungTuyen": [],
+  "ThiSinhDatYeuCau": []
+}]

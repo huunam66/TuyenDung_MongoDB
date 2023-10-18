@@ -1,0 +1,132 @@
+[{
+  "_id": {
+    "$oid": "64f8e67218a4a85c27dd6336"
+  },
+  "HoTen": "Nguyễn Van A",
+  "ViTriLamViec": "Project Manager",
+  "NgaySinh": {
+    "$date": "1975-03-05T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "nguyenvana123123@gmail.com"
+  ],
+  "SoDienThoai": "0192591221",
+  "DiaChi": {
+    "So": "123A/4B",
+    "Duong": "Nguyen Van Street",
+    "PhuongXa": "Le Giang",
+    "QuanHuyen": 15,
+    "TinhThanh": "TP.HCM"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8e96818a4a85c27dd6337"
+  },
+  "HoTen": "Nguyễn Van B",
+  "ViTriLamViec": "TeamLead Backend",
+  "NgaySinh": {
+    "$date": "1975-03-05T00:00:00.000Z"
+  },
+  "Phai": "Nu",
+  "Email": [
+    "nguyenvanb4634@gmail.com"
+  ],
+  "SoDienThoai": "0908725432",
+  "DiaChi": {
+    "So": "134/6",
+    "Duong": "Nguyen Van Stress",
+    "PhuongXa": "Quang Ha",
+    "QuanHuyen": 18,
+    "TinhThanh": "TP.HCM"
+  }
+},
+{
+  "_id": {
+    "$oid": "64f8e9ba18a4a85c27dd6338"
+  },
+  "HoTen": "Nguyễn Van C",
+  "ViTriLamViec": "TeamLead Data",
+  "NgaySinh": {
+    "$date": "1975-03-05T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "nguyenvanc8565@gmail.com"
+  ],
+  "SoDienThoai": "0192455685",
+  "DiaChi": {
+    "So": "6568B/44",
+    "Duong": "Nguyen Van End",
+    "PhuongXa": "Hoan Van Thu",
+    "QuanHuyen": 15,
+    "TinhThanh": "TP.HCM"
+  }
+},
+{
+  "_id": {
+    "$oid": "652fff541af1f929bc256976"
+  },
+  "HoTen": "Trần Be AC",
+  "ViTriLamViec": "TeamLead FrontEnd",
+  "NgaySinh": {
+    "$date": "1986-04-06T00:00:00.000Z"
+  },
+  "Phai": "Nam",
+  "Email": [
+    "abcTran323@gmail.com"
+  ],
+  "SoDienThoai": "04573455455",
+  "DiaChi": {
+    "So": "6344/12A",
+    "Duong": "Le Hoang",
+    "PhuongXa": "Hoang Mai",
+    "QuanHuyen": "Hoan Kiem",
+    "TinhThanh": "Hà Nội"
+  }
+},
+{
+  "_id": {
+    "$oid": "652fffc71af1f929bc256977"
+  },
+  "HoTen": "Hoàng Minh Anh",
+  "ViTriLamViec": "TeamLead AI",
+  "NgaySinh": {
+    "$date": "1992-04-06T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "MinhAnh@gmail.com"
+  ],
+  "SoDienThoai": "04673445455",
+  "DiaChi": {
+    "So": "632/55B",
+    "Duong": "Hoang Sa",
+    "PhuongXa": "Truong Sa",
+    "QuanHuyen": "Truong Son",
+    "TinhThanh": "Hà Nội"
+  }
+},
+{
+  "_id": {
+    "$oid": "653005b21374511d1d12712d"
+  },
+  "HoTen": "Lê Hoàng Ngọc",
+  "ViTriLamViec": "Senior Business Analyst",
+  "NgaySinh": {
+    "$date": "1994-02-15T00:00:00.000Z"
+  },
+  "Phai": "Nữ",
+  "Email": [
+    "nguoidepchongmong@gmail.com"
+  ],
+  "SoDienThoai": "09056856556",
+  "DiaChi": {
+    "So": "13432/6B",
+    "Duong": "Hoang Ha",
+    "PhuongXa": "Quang Tien",
+    "QuanHuyen": "Minh Ngoc",
+    "TinhThanh": "Đà Nẵng"
+  }
+}]
